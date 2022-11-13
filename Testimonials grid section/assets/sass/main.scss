@@ -1,0 +1,16 @@
+// FONT
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+
+@import "abstracts/mixins";         // Mixins
+@import "abstracts/variables";      // Variables
+
+@import "base/base";                // General settings
+@import "base/typography";          // Typograpthy -> Headings, paragraphs
+@import "base/utilities";           // Reusable utilities
+
+@import "components/card";          // Resusable components
+
+@import "pages/home";               // Current section settings
+

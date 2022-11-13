@@ -1,0 +1,25 @@
+// Utilities
+
+// POSITIONING UTILITIES
+.u-center-text { text-align: center !important; }
+
+// MARGIN UTULIETIES
+.u-margin-bottom-very-small { margin-bottom: 1rem !important; }
+.u-margin-bottom-small { margin-bottom: 2rem !important; }
+.u-margin-bottom-medium { margin-bottom: 3rem !important; }
+.u-margin-bottom-big { margin-bottom: 4rem !important; }
+.u-margin-bottom-very-big { margin-bottom: 6rem !important; }
+.u-margin-bottom-huge { margin-bottom: 8rem !important; }
+
+.u-margin-top-very-small { margin-top: 1rem !important; }
+.u-margin-top-small { margin-top: 2rem !important; }
+.u-margin-top-medium { margin-top: 3rem !important; }
+.u-margin-top-big { margin-top: 4rem !important; }
+.u-margin-top-very-big { margin-top: 6rem !important; }
+.u-margin-top-huge { margin-top: 8rem !important; }
+
+// COLOR UTILITIES
+.u-col-light { color: $col-neutral-2 !important; }
+.u-col-grey { color: $col-neutral-1 !important; }
+.u-col-dark { color: $col-primary-3 !important; }
+.u-col-dark-light { color: $col-primary-2 !important; }
